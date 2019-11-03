@@ -1,0 +1,2773 @@
+<table id="stops" width="100%" cellspacing="0" cellpadding="0" align="center" style="color:rgb(0,0,0);font-family:Simsun;text-align:center;font-size:10px;">
+<tbody>
+<tr><td>poiid-站点编码</td>
+    <td>n-站点名称</td>
+    <td>sp-站点拼音</td>
+    <td>sl-经度</td>
+    <td>sl-纬度</td>
+    <td>r-经过路线</td>
+    <td>t-换乘</td>
+    <td>su-可用状态</td>
+</tr>
+<tr><td colspan="8">10号线</td></tr>
+<tr>
+    <td>BV10013394</td>
+    <td>巴沟</td>
+    <td>ba gou</td>
+    <td>116.294</td>
+    <td>39.9742</td>
+    <td>110001|110024</td>
+    <td>0</td>
+    <td>1</td>
+</tr>
+<tr>
+    <td>BV10013485</td>
+    <td>苏州街</td>
+    <td>su zhou jie</td>
+    <td>116.306</td>
+    <td>39.9756</td>
+    <td>110001</td>
+    <td>0</td>
+    <td>1</td>
+</tr>
+<tr><td>BV10013411</td>
+<td>海淀黄庄</td>
+<td>hai dian huang zhuang</td>
+<td>116.318</td>
+<td>39.976</td>
+<td>110001|110013</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10001215</td>
+<td>知春里</td>
+<td>zhi chun li</td>
+<td>116.329</td>
+<td>39.9763</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10001218</td>
+<td>知春路</td>
+<td>zhi chun lu</td>
+<td>116.34</td>
+<td>39.9765</td>
+<td>110001|110003</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013486</td>
+<td>西土城</td>
+<td>xi tu cheng</td>
+<td>116.354</td>
+<td>39.9762</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000017</td>
+<td>牡丹园</td>
+<td>mu dan yuan</td>
+<td>116.37</td>
+<td>39.9763</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10004058</td>
+<td>健德门</td>
+<td>jian de men</td>
+<td>116.381</td>
+<td>39.9767</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013465</td>
+<td>北土城</td>
+<td>bei tu cheng</td>
+<td>116.394</td>
+<td>39.9769</td>
+<td>110001|110018</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013487</td>
+<td>安贞门</td>
+<td>an zhen men</td>
+<td>116.406</td>
+<td>39.977</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10005412</td>
+<td>惠新西街南口</td>
+<td>hui xin xi jie nan kou</td>
+<td>116.418</td>
+<td>39.977</td>
+<td>110001|110016</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10006575</td>
+<td>芍药居</td>
+<td>shao yao ju</td>
+<td>116.436</td>
+<td>39.9779</td>
+<td>110001|110003</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013488</td>
+<td>太阳宫</td>
+<td>tai yang gong</td>
+<td>116.448</td>
+<td>39.9727</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000199</td>
+<td>三元桥</td>
+<td>san yuan qiao</td>
+<td>116.457</td>
+<td>39.9614</td>
+<td>110001|110005</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10000196</td>
+<td>亮马桥</td>
+<td>liang ma qiao</td>
+<td>116.462</td>
+<td>39.9494</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10001223</td>
+<td>农业展览馆</td>
+<td>nong ye zhan lan guan</td>
+<td>116.462</td>
+<td>39.9416</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10011994</td>
+<td>团结湖</td>
+<td>tuan jie hu</td>
+<td>116.462</td>
+<td>39.9337</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013489</td>
+<td>呼家楼</td>
+<td>hu jia lou</td>
+<td>116.462</td>
+<td>39.9232</td>
+<td>110001|110012</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013490</td>
+<td>金台夕照</td>
+<td>jin tai xi zhao</td>
+<td>116.462</td>
+<td>39.9167</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013461</td>
+<td>国贸</td>
+<td>guo mao</td>
+<td>116.46</td>
+<td>39.9084</td>
+<td>110001|110011</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013385</td>
+<td>双井</td>
+<td>shuang jing</td>
+<td>116.462</td>
+<td>39.8935</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10007162</td>
+<td>劲松</td>
+<td>jin song</td>
+<td>116.461</td>
+<td>39.8844</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000543</td>
+<td>潘家园</td>
+<td>pan jia yuan</td>
+<td>116.461</td>
+<td>39.8755</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013367</td>
+<td>十里河</td>
+<td>shi li he</td>
+<td>116.458</td>
+<td>39.8659</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10007166</td>
+<td>分钟寺</td>
+<td>fen zhong si</td>
+<td>116.454</td>
+<td>39.8519</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013491</td>
+<td>成寿寺</td>
+<td>cheng shou si</td>
+<td>116.447</td>
+<td>39.8459</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000743</td>
+<td>宋家庄</td>
+<td>song jia zhuang</td>
+<td>116.428</td>
+<td>39.8457</td>
+<td>110001|110016|110014</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013492</td>
+<td>石榴庄</td>
+<td>shi liu zhuang</td>
+<td>116.414</td>
+<td>39.8459</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000737</td>
+<td>大红门</td>
+<td>da hong men</td>
+<td>116.399</td>
+<td>39.8454</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013493</td>
+<td>角门东</td>
+<td>jiao men dong</td>
+<td>116.385</td>
+<td>39.8451</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013417</td>
+<td>角门西</td>
+<td>jiao men xi</td>
+<td>116.371</td>
+<td>39.8459</td>
+<td>110001|110013</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10000222</td>
+<td>草桥</td>
+<td>cao qiao</td>
+<td>116.351</td>
+<td>39.8459</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10006086</td>
+<td>纪家庙</td>
+<td>ji jia miao</td>
+<td>116.333</td>
+<td>39.8444</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013494</td>
+<td>首经贸</td>
+<td>shou jing mao</td>
+<td>116.32</td>
+<td>39.8445</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013495</td>
+<td>丰台站</td>
+<td>feng tai zhan</td>
+<td>116.305</td>
+<td>39.8499</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10003566</td>
+<td>泥洼</td>
+<td>ni wa</td>
+<td>116.304</td>
+<td>39.8582</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000215</td>
+<td>西局</td>
+<td>xi ju</td>
+<td>116.304</td>
+<td>39.8665</td>
+<td>110001|110026</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013475</td>
+<td>六里桥</td>
+<td>liu li qiao</td>
+<td>116.303</td>
+<td>39.8803</td>
+<td>110001|110008</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10002829</td>
+<td>莲花桥</td>
+<td>lian hua qiao</td>
+<td>116.31</td>
+<td>39.8977</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000306</td>
+<td>公主坟</td>
+<td>gong zhu fen</td>
+<td>116.31</td>
+<td>39.9075</td>
+<td>110001|110011</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10002778</td>
+<td>西钓鱼台</td>
+<td>xi diao yu tai</td>
+<td>116.298</td>
+<td>39.9233</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013496</td>
+<td>慈寿寺</td>
+<td>ci shou si</td>
+<td>116.294</td>
+<td>39.933</td>
+<td>110001|110012</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10012405</td>
+<td>车道沟</td>
+<td>che dao gou</td>
+<td>116.294</td>
+<td>39.9481</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10007535</td>
+<td>长春桥</td>
+<td>chang chun qiao</td>
+<td>116.294</td>
+<td>39.9583</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10007538</td>
+<td>火器营</td>
+<td>huo qi ying</td>
+<td>116.289</td>
+<td>39.966</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td colspan="8">2号线</td>
+</tr><tr><td>BV10013430</td>
+<td>积水潭</td>
+<td>ji shui tan</td>
+<td>116.373</td>
+<td>39.9487</td>
+<td>110002</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013431</td>
+<td>鼓楼大街</td>
+<td>gu lou da jie</td>
+<td>116.394</td>
+<td>39.948</td>
+<td>110002|110018</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10001936</td>
+<td>安定门</td>
+<td>an ding men</td>
+<td>116.408</td>
+<td>39.9492</td>
+<td>110002</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10006563</td>
+<td>雍和宫</td>
+<td>yong he gong</td>
+<td>116.417</td>
+<td>39.9487</td>
+<td>110002|110016</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10002731</td>
+<td>东直门</td>
+<td>dong zhi men</td>
+<td>116.435</td>
+<td>39.9424</td>
+<td>110002|110005|110003</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10001047</td>
+<td>东四十条</td>
+<td>dong si shi tiao</td>
+<td>116.434</td>
+<td>39.9337</td>
+<td>110002</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10004298</td>
+<td>朝阳门</td>
+<td>zhao yang men</td>
+<td>116.433</td>
+<td>39.9244</td>
+<td>110002|110012</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013432</td>
+<td>建国门</td>
+<td>jian guo men</td>
+<td>116.436</td>
+<td>39.9086</td>
+<td>110002|110011</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10006813</td>
+<td>北京站</td>
+<td>bei jing zhan</td>
+<td>116.427</td>
+<td>39.905</td>
+<td>110002</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013433</td>
+<td>崇文门</td>
+<td>chong wen men</td>
+<td>116.419</td>
+<td>39.9008</td>
+<td>110002|110016</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10005884</td>
+<td>前门</td>
+<td>qian men</td>
+<td>116.398</td>
+<td>39.9002</td>
+<td>110002</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013434</td>
+<td>和平门</td>
+<td>he ping men</td>
+<td>116.384</td>
+<td>39.9001</td>
+<td>110002</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013415</td>
+<td>宣武门</td>
+<td>xuan wu men</td>
+<td>116.374</td>
+<td>39.8998</td>
+<td>110002|110013</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013435</td>
+<td>长椿街</td>
+<td>chang chun jie</td>
+<td>116.363</td>
+<td>39.8994</td>
+<td>110002</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10007375</td>
+<td>复兴门</td>
+<td>fu xing men</td>
+<td>116.357</td>
+<td>39.9072</td>
+<td>110002|110011</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10001036</td>
+<td>阜成门</td>
+<td>fu cheng men</td>
+<td>116.356</td>
+<td>39.9235</td>
+<td>110002</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013437</td>
+<td>车公庄</td>
+<td>che gong zhuang</td>
+<td>116.355</td>
+<td>39.9324</td>
+<td>110002|110012</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10001595</td>
+<td>西直门</td>
+<td>xi zhi men</td>
+<td>116.353</td>
+<td>39.942</td>
+<td>110002|110003|110013</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td colspan="8">13号线</td>
+</tr><tr><td>BV10001595</td>
+<td>西直门</td>
+<td>xi zhi men</td>
+<td>116.353</td>
+<td>39.942</td>
+<td>110003|110002|110013</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10001016</td>
+<td>大钟寺</td>
+<td>da zhong si</td>
+<td>116.345</td>
+<td>39.9666</td>
+<td>110003</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10001218</td>
+<td>知春路</td>
+<td>zhi chun lu</td>
+<td>116.34</td>
+<td>39.9765</td>
+<td>110003|110001</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10006886</td>
+<td>五道口</td>
+<td>wu dao kou</td>
+<td>116.338</td>
+<td>39.9929</td>
+<td>110003</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013516</td>
+<td>上地</td>
+<td>shang di</td>
+<td>116.32</td>
+<td>40.033</td>
+<td>110003</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10007027</td>
+<td>西二旗</td>
+<td>xi er qi</td>
+<td>116.306</td>
+<td>40.0531</td>
+<td>110003|110004</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013515</td>
+<td>龙泽</td>
+<td>long ze</td>
+<td>116.319</td>
+<td>40.0709</td>
+<td>110003</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013514</td>
+<td>回龙观</td>
+<td>hui long guan</td>
+<td>116.336</td>
+<td>40.0708</td>
+<td>110003</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10007658</td>
+<td>霍营</td>
+<td>huo ying</td>
+<td>116.361</td>
+<td>40.0705</td>
+<td>110003|110018</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10000461</td>
+<td>立水桥</td>
+<td>li shui qiao</td>
+<td>116.411</td>
+<td>40.0527</td>
+<td>110003|110016</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10000150</td>
+<td>北苑</td>
+<td>bei yuan</td>
+<td>116.435</td>
+<td>40.043</td>
+<td>110003</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013377</td>
+<td>望京西</td>
+<td>wang jing xi</td>
+<td>116.447</td>
+<td>39.995</td>
+<td>110003|110006</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10006575</td>
+<td>芍药居</td>
+<td>shao yao ju</td>
+<td>116.436</td>
+<td>39.9779</td>
+<td>110003|110001</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013512</td>
+<td>光熙门</td>
+<td>guang xi men</td>
+<td>116.432</td>
+<td>39.9684</td>
+<td>110003</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013511</td>
+<td>柳芳</td>
+<td>liu fang</td>
+<td>116.433</td>
+<td>39.9583</td>
+<td>110003</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10002731</td>
+<td>东直门</td>
+<td>dong zhi men</td>
+<td>116.435</td>
+<td>39.9424</td>
+<td>110003|110002|110005</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td colspan="8">房山线</td>
+</tr><tr><td>BV10003977</td>
+<td>苏庄</td>
+<td>su zhuang</td>
+<td>116.125</td>
+<td>39.7233</td>
+<td>110007</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013427</td>
+<td>良乡南关</td>
+<td>liang xiang nan guan</td>
+<td>116.141</td>
+<td>39.7233</td>
+<td>110007</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10003994</td>
+<td>良乡大学城西</td>
+<td>liang xiang da xue cheng xi</td>
+<td>116.156</td>
+<td>39.7232</td>
+<td>110007</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10003965</td>
+<td>良乡大学城</td>
+<td>liang xiang da xue cheng</td>
+<td>116.176</td>
+<td>39.7232</td>
+<td>110007</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10003967</td>
+<td>良乡大学城北</td>
+<td>liang xiang da xue cheng bei</td>
+<td>116.184</td>
+<td>39.73</td>
+<td>110007</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013426</td>
+<td>广阳城</td>
+<td>guang yang cheng</td>
+<td>116.185</td>
+<td>39.748</td>
+<td>110007</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10001096</td>
+<td>篱笆房</td>
+<td>li ba fang</td>
+<td>116.19</td>
+<td>39.7606</td>
+<td>110007</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013425</td>
+<td>长阳</td>
+<td>chang yang</td>
+<td>116.213</td>
+<td>39.7638</td>
+<td>110007</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013424</td>
+<td>稻田</td>
+<td>dao tian</td>
+<td>116.219</td>
+<td>39.7948</td>
+<td>110007</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013423</td>
+<td>大葆台</td>
+<td>da bao tai</td>
+<td>116.291</td>
+<td>39.8076</td>
+<td>110007</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10007779</td>
+<td>郭公庄</td>
+<td>guo gong zhuang</td>
+<td>116.302</td>
+<td>39.8144</td>
+<td>110007|110008</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td colspan="8">昌平线</td>
+</tr><tr><td>BV10001633</td>
+<td>南邵</td>
+<td>nan shao</td>
+<td>116.287</td>
+<td>40.2071</td>
+<td>110004</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013477</td>
+<td>沙河高教园</td>
+<td>sha he gao jiao yuan</td>
+<td>116.28</td>
+<td>40.1647</td>
+<td>110004</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000338</td>
+<td>沙河</td>
+<td>sha he</td>
+<td>116.289</td>
+<td>40.1483</td>
+<td>110004</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013478</td>
+<td>巩华城</td>
+<td>gong hua cheng</td>
+<td>116.294</td>
+<td>40.1309</td>
+<td>110004</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000571</td>
+<td>朱辛庄</td>
+<td>zhu xin zhuang</td>
+<td>116.314</td>
+<td>40.1043</td>
+<td>110004|110018</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10000877</td>
+<td>生命科学园</td>
+<td>sheng ming ke xue yuan</td>
+<td>116.294</td>
+<td>40.0949</td>
+<td>110004</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10007027</td>
+<td>西二旗</td>
+<td>xi er qi</td>
+<td>116.306</td>
+<td>40.0531</td>
+<td>110004|110003</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td colspan="8">9号线</td>
+</tr><tr><td>BV10007779</td>
+<td>郭公庄</td>
+<td>guo gong zhuang</td>
+<td>116.302</td>
+<td>39.8144</td>
+<td>110008|110007</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013471</td>
+<td>丰台科技园</td>
+<td>feng tai ke ji yuan</td>
+<td>116.297</td>
+<td>39.8252</td>
+<td>110008</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013472</td>
+<td>科怡路</td>
+<td>ke yi lu</td>
+<td>116.298</td>
+<td>39.8324</td>
+<td>110008</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013473</td>
+<td>丰台南路</td>
+<td>feng tai nan lu</td>
+<td>116.297</td>
+<td>39.8414</td>
+<td>110008</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013474</td>
+<td>丰台东大街</td>
+<td>feng tai dong da jie</td>
+<td>116.294</td>
+<td>39.8553</td>
+<td>110008</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000636</td>
+<td>七里庄</td>
+<td>qi li zhuang</td>
+<td>116.294</td>
+<td>39.8675</td>
+<td>110008|110026</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013475</td>
+<td>六里桥</td>
+<td>liu li qiao</td>
+<td>116.303</td>
+<td>39.8803</td>
+<td>110008|110001</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10000269</td>
+<td>六里桥东</td>
+<td>liu li qiao dong</td>
+<td>116.315</td>
+<td>39.887</td>
+<td>110008</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000102</td>
+<td>北京西站</td>
+<td>bei jing xi zhan</td>
+<td>116.321</td>
+<td>39.895</td>
+<td>110008|110021</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10000188</td>
+<td>军事博物馆</td>
+<td>jun shi bo wu guan</td>
+<td>116.324</td>
+<td>39.9074</td>
+<td>110008|110011</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013476</td>
+<td>白堆子</td>
+<td>bai dui zi</td>
+<td>116.326</td>
+<td>39.9239</td>
+<td>110008</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000061</td>
+<td>白石桥南</td>
+<td>bai shi qiao nan</td>
+<td>116.325</td>
+<td>39.933</td>
+<td>110008|110012</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10000252</td>
+<td>国家图书馆</td>
+<td>guo jia tu shu guan</td>
+<td>116.325</td>
+<td>39.9432</td>
+<td>110008|110013</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td colspan="8">八通线</td>
+</tr><tr><td>BV10000275</td>
+<td>四惠</td>
+<td>si hui</td>
+<td>116.496</td>
+<td>39.9088</td>
+<td>110010|110011</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10007589</td>
+<td>四惠东</td>
+<td>si hui dong</td>
+<td>116.515</td>
+<td>39.9085</td>
+<td>110010|110011</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013517</td>
+<td>高碑店</td>
+<td>gao bei dian</td>
+<td>116.532</td>
+<td>39.9095</td>
+<td>110010</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013518</td>
+<td>传媒大学</td>
+<td>chuan mei da xue</td>
+<td>116.555</td>
+<td>39.9092</td>
+<td>110010</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013519</td>
+<td>双桥</td>
+<td>shuang qiao</td>
+<td>116.577</td>
+<td>39.9103</td>
+<td>110010</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10004294</td>
+<td>管庄</td>
+<td>guan zhuang</td>
+<td>116.599</td>
+<td>39.9092</td>
+<td>110010</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10001118</td>
+<td>八里桥</td>
+<td>ba li qiao</td>
+<td>116.618</td>
+<td>39.9059</td>
+<td>110010</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10004143</td>
+<td>通州北苑</td>
+<td>tong zhou bei yuan</td>
+<td>116.637</td>
+<td>39.9037</td>
+<td>110010</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10004141</td>
+<td>果园</td>
+<td>guo yuan</td>
+<td>116.646</td>
+<td>39.8933</td>
+<td>110010</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10001298</td>
+<td>九棵树</td>
+<td>jiu ke shu</td>
+<td>116.658</td>
+<td>39.8902</td>
+<td>110010</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10002455</td>
+<td>梨园</td>
+<td>li yuan</td>
+<td>116.668</td>
+<td>39.8838</td>
+<td>110010</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013520</td>
+<td>临河里</td>
+<td>lin he li</td>
+<td>116.679</td>
+<td>39.8754</td>
+<td>110010</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10004138</td>
+<td>土桥</td>
+<td>tu qiao</td>
+<td>116.686</td>
+<td>39.872</td>
+<td>110010</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td colspan="8">1号线</td>
+</tr><tr><td>BV10013454</td>
+<td>苹果园</td>
+<td>ping guo yuan</td>
+<td>116.178</td>
+<td>39.9263</td>
+<td>110011</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000295</td>
+<td>古城</td>
+<td>gu cheng</td>
+<td>116.19</td>
+<td>39.9074</td>
+<td>110011</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013455</td>
+<td>八角游乐园</td>
+<td>ba jiao you le yuan</td>
+<td>116.213</td>
+<td>39.9074</td>
+<td>110011</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000302</td>
+<td>八宝山</td>
+<td>ba bao shan</td>
+<td>116.236</td>
+<td>39.9074</td>
+<td>110011</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013456</td>
+<td>玉泉路</td>
+<td>yu quan lu</td>
+<td>116.253</td>
+<td>39.9074</td>
+<td>110011</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013457</td>
+<td>五棵松</td>
+<td>wu ke song</td>
+<td>116.274</td>
+<td>39.9075</td>
+<td>110011</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013458</td>
+<td>万寿路</td>
+<td>wan shou lu</td>
+<td>116.295</td>
+<td>39.9075</td>
+<td>110011</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000306</td>
+<td>公主坟</td>
+<td>gong zhu fen</td>
+<td>116.31</td>
+<td>39.9075</td>
+<td>110011|110001</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10000188</td>
+<td>军事博物馆</td>
+<td>jun shi bo wu guan</td>
+<td>116.324</td>
+<td>39.9074</td>
+<td>110011|110008</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013459</td>
+<td>木樨地</td>
+<td>mu xi di</td>
+<td>116.338</td>
+<td>39.9074</td>
+<td>110011</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000309</td>
+<td>南礼士路</td>
+<td>nan li shi lu</td>
+<td>116.352</td>
+<td>39.9072</td>
+<td>110011</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10007375</td>
+<td>复兴门</td>
+<td>fu xing men</td>
+<td>116.357</td>
+<td>39.9072</td>
+<td>110011|110002</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10006791</td>
+<td>西单</td>
+<td>xi dan</td>
+<td>116.376</td>
+<td>39.9072</td>
+<td>110011|110013</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10005941</td>
+<td>天安门西</td>
+<td>tian an men xi</td>
+<td>116.392</td>
+<td>39.9075</td>
+<td>110011</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10006499</td>
+<td>天安门东</td>
+<td>tian an men dong</td>
+<td>116.402</td>
+<td>39.9078</td>
+<td>110011</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10006496</td>
+<td>王府井</td>
+<td>wang fu jing</td>
+<td>116.412</td>
+<td>39.9081</td>
+<td>110011</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013440</td>
+<td>东单</td>
+<td>dong dan</td>
+<td>116.418</td>
+<td>39.9083</td>
+<td>110011|110016</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013432</td>
+<td>建国门</td>
+<td>jian guo men</td>
+<td>116.436</td>
+<td>39.9086</td>
+<td>110011|110002</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013460</td>
+<td>永安里</td>
+<td>yong an li</td>
+<td>116.45</td>
+<td>39.9085</td>
+<td>110011</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013461</td>
+<td>国贸</td>
+<td>guo mao</td>
+<td>116.46</td>
+<td>39.9084</td>
+<td>110011|110001</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013364</td>
+<td>大望路</td>
+<td>da wang lu</td>
+<td>116.478</td>
+<td>39.9083</td>
+<td>110011</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000275</td>
+<td>四惠</td>
+<td>si hui</td>
+<td>116.496</td>
+<td>39.9088</td>
+<td>110011|110010</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10007589</td>
+<td>四惠东</td>
+<td>si hui dong</td>
+<td>116.515</td>
+<td>39.9085</td>
+<td>110011|110010</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td colspan="8">亦庄线</td>
+</tr><tr><td>BV10000743</td>
+<td>宋家庄</td>
+<td>song jia zhuang</td>
+<td>116.428</td>
+<td>39.8457</td>
+<td>110014|110001|110016</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10011446</td>
+<td>肖村</td>
+<td>xiao cun</td>
+<td>116.448</td>
+<td>39.8343</td>
+<td>110014</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10012008</td>
+<td>小红门</td>
+<td>xiao hong men</td>
+<td>116.46</td>
+<td>39.828</td>
+<td>110014</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000335</td>
+<td>旧宫</td>
+<td>jiu gong</td>
+<td>116.461</td>
+<td>39.8071</td>
+<td>110014</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013453</td>
+<td>亦庄桥</td>
+<td>yi zhuang qiao</td>
+<td>116.48</td>
+<td>39.803</td>
+<td>110014</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013452</td>
+<td>亦庄文化园</td>
+<td>yi zhuang wen hua yuan</td>
+<td>116.491</td>
+<td>39.8068</td>
+<td>110014</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013451</td>
+<td>万源街</td>
+<td>wan yuan jie</td>
+<td>116.505</td>
+<td>39.8031</td>
+<td>110014</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10003511</td>
+<td>荣京东街</td>
+<td>rong jing dong jie</td>
+<td>116.513</td>
+<td>39.7932</td>
+<td>110014</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013450</td>
+<td>荣昌东街</td>
+<td>rong chang dong jie</td>
+<td>116.522</td>
+<td>39.783</td>
+<td>110014</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10007921</td>
+<td>同济南路</td>
+<td>tong ji nan lu</td>
+<td>116.54</td>
+<td>39.7731</td>
+<td>110014</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013449</td>
+<td>经海路</td>
+<td>jing hai lu</td>
+<td>116.562</td>
+<td>39.7837</td>
+<td>110014</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013448</td>
+<td>次渠南</td>
+<td>ci qu nan</td>
+<td>116.581</td>
+<td>39.7951</td>
+<td>110014</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10011266</td>
+<td>次渠</td>
+<td>ci qu</td>
+<td>116.591</td>
+<td>39.8034</td>
+<td>110014|110015</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td colspan="8">(在建)</td>
+</tr><tr><td colspan="8">5号线</td>
+</tr><tr><td>BV10000743</td>
+<td>宋家庄</td>
+<td>song jia zhuang</td>
+<td>116.428</td>
+<td>39.8457</td>
+<td>110016|110001|110014</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013438</td>
+<td>刘家窑</td>
+<td>liu jia yao</td>
+<td>116.422</td>
+<td>39.8576</td>
+<td>110016</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10006603</td>
+<td>蒲黄榆</td>
+<td>pu huang yu</td>
+<td>116.422</td>
+<td>39.8657</td>
+<td>110016</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013439</td>
+<td>天坛东门</td>
+<td>tian tan dong men</td>
+<td>116.421</td>
+<td>39.8831</td>
+<td>110016</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013383</td>
+<td>磁器口</td>
+<td>ci qi kou</td>
+<td>116.419</td>
+<td>39.8931</td>
+<td>110016|110021</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013433</td>
+<td>崇文门</td>
+<td>chong wen men</td>
+<td>116.419</td>
+<td>39.9008</td>
+<td>110016|110002</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013440</td>
+<td>东单</td>
+<td>dong dan</td>
+<td>116.418</td>
+<td>39.9083</td>
+<td>110016|110011</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013441</td>
+<td>灯市口</td>
+<td>deng shi kou</td>
+<td>116.418</td>
+<td>39.9172</td>
+<td>110016</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013442</td>
+<td>东四</td>
+<td>dong si</td>
+<td>116.417</td>
+<td>39.9244</td>
+<td>110016|110012</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10001045</td>
+<td>张自忠路</td>
+<td>zhang zi zhong lu</td>
+<td>116.417</td>
+<td>39.9337</td>
+<td>110016</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013443</td>
+<td>北新桥</td>
+<td>bei xin qiao</td>
+<td>116.417</td>
+<td>39.9409</td>
+<td>110016</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10006563</td>
+<td>雍和宫</td>
+<td>yong he gong</td>
+<td>116.417</td>
+<td>39.9487</td>
+<td>110016|110002</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10006616</td>
+<td>和平里北街</td>
+<td>he ping li bei jie</td>
+<td>116.419</td>
+<td>39.9587</td>
+<td>110016</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10001221</td>
+<td>和平西桥</td>
+<td>he ping xi qiao</td>
+<td>116.418</td>
+<td>39.9685</td>
+<td>110016</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10005412</td>
+<td>惠新西街南口</td>
+<td>hui xin xi jie nan kou</td>
+<td>116.418</td>
+<td>39.977</td>
+<td>110016|110001</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10006707</td>
+<td>惠新西街北口</td>
+<td>hui xin xi jie bei kou</td>
+<td>116.417</td>
+<td>39.9878</td>
+<td>110016</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013376</td>
+<td>大屯路东</td>
+<td>da tun lu dong</td>
+<td>116.417</td>
+<td>40.0038</td>
+<td>110016</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013444</td>
+<td>北苑路北</td>
+<td>bei yuan lu bei</td>
+<td>116.418</td>
+<td>40.0306</td>
+<td>110016</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10004309</td>
+<td>立水桥南</td>
+<td>li shui qiao nan</td>
+<td>116.415</td>
+<td>40.0419</td>
+<td>110016</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000461</td>
+<td>立水桥</td>
+<td>li shui qiao</td>
+<td>116.411</td>
+<td>40.0527</td>
+<td>110016|110003</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013445</td>
+<td>天通苑南</td>
+<td>tian tong yuan nan</td>
+<td>116.413</td>
+<td>40.0664</td>
+<td>110016</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013446</td>
+<td>天通苑</td>
+<td>tian tong yuan</td>
+<td>116.413</td>
+<td>40.0754</td>
+<td>110016</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013447</td>
+<td>天通苑北</td>
+<td>tian tong yuan bei</td>
+<td>116.413</td>
+<td>40.0834</td>
+<td>110016</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td colspan="8">7号线</td>
+</tr><tr><td>BV10013391</td>
+<td>焦化厂</td>
+<td>jiao hua chang</td>
+<td>116.536</td>
+<td>39.85</td>
+<td>110021</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10416577</td>
+<td>双合</td>
+<td>shuang he</td>
+<td>116.521</td>
+<td>39.8575</td>
+<td>110021</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10007127</td>
+<td>垡头</td>
+<td>fa tou</td>
+<td>116.512</td>
+<td>39.8609</td>
+<td>110021</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td>BV10013389</td>
+<td>欢乐谷景区</td>
+<td>huan le gu jing qu</td>
+<td>116.5</td>
+<td>39.8685</td>
+<td>110021</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013388</td>
+<td>南楼梓庄</td>
+<td>nan lou zi zhuang</td>
+<td>116.501</td>
+<td>39.8748</td>
+<td>110021</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013387</td>
+<td>化工</td>
+<td>hua gong</td>
+<td>116.507</td>
+<td>39.8893</td>
+<td>110021</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000647</td>
+<td>百子湾</td>
+<td>bai zi wan</td>
+<td>116.501</td>
+<td>39.8931</td>
+<td>110021</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013386</td>
+<td>大郊亭</td>
+<td>da jiao ting</td>
+<td>116.489</td>
+<td>39.8932</td>
+<td>110021</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10006224</td>
+<td>九龙山</td>
+<td>jiu long shan</td>
+<td>116.478</td>
+<td>39.8932</td>
+<td>110021</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013384</td>
+<td>广渠门外</td>
+<td>guang qu men wai</td>
+<td>116.449</td>
+<td>39.8936</td>
+<td>110021</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10006633</td>
+<td>广渠门内</td>
+<td>guang qu men nei</td>
+<td>116.435</td>
+<td>39.8936</td>
+<td>110021</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013383</td>
+<td>磁器口</td>
+<td>ci qi kou</td>
+<td>116.419</td>
+<td>39.8931</td>
+<td>110021|110016</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10396213</td>
+<td>桥湾</td>
+<td>qiao wan</td>
+<td>116.406</td>
+<td>39.8926</td>
+<td>110021</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013381</td>
+<td>珠市口</td>
+<td>zhu shi kou</td>
+<td>116.398</td>
+<td>39.8912</td>
+<td>110021</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013380</td>
+<td>虎坊桥</td>
+<td>hu fang qiao</td>
+<td>116.385</td>
+<td>39.8895</td>
+<td>110021</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013379</td>
+<td>菜市口</td>
+<td>cai shi kou</td>
+<td>116.374</td>
+<td>39.8893</td>
+<td>110021|110013</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10396212</td>
+<td>广安门内</td>
+<td>guang an men nei</td>
+<td>116.359</td>
+<td>39.8894</td>
+<td>110021</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10005975</td>
+<td>达官营</td>
+<td>da guan ying</td>
+<td>116.335</td>
+<td>39.8899</td>
+<td>110021</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10006599</td>
+<td>湾子</td>
+<td>wan zi</td>
+<td>116.329</td>
+<td>39.8898</td>
+<td>110021</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000102</td>
+<td>北京西站</td>
+<td>bei jing xi zhan</td>
+<td>116.321</td>
+<td>39.895</td>
+<td>110021|110008</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td colspan="8">(在建)</td>
+</tr><tr><td colspan="8">8号线</td>
+</tr><tr><td>BV10013392</td>
+<td>南锣鼓巷</td>
+<td>nan luo gu xiang</td>
+<td>116.403</td>
+<td>39.9331</td>
+<td>110018|110012</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013462</td>
+<td>什刹海</td>
+<td>shi cha hai</td>
+<td>116.396</td>
+<td>39.9374</td>
+<td>110018</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013431</td>
+<td>鼓楼大街</td>
+<td>gu lou da jie</td>
+<td>116.394</td>
+<td>39.948</td>
+<td>110018|110002</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013464</td>
+<td>安华桥</td>
+<td>an hua qiao</td>
+<td>116.395</td>
+<td>39.9693</td>
+<td>110018</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013465</td>
+<td>北土城</td>
+<td>bei tu cheng</td>
+<td>116.394</td>
+<td>39.9769</td>
+<td>110018|110001</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013466</td>
+<td>奥体中心</td>
+<td>ao ti zhong xin</td>
+<td>116.394</td>
+<td>39.9857</td>
+<td>110018</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013375</td>
+<td>奥林匹克公园</td>
+<td>ao lin pi ke gong yuan</td>
+<td>116.393</td>
+<td>40.0023</td>
+<td>110018|110006</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10009724</td>
+<td>森林公园南门</td>
+<td>sen lin gong yuan nan men</td>
+<td>116.393</td>
+<td>40.01</td>
+<td>110018</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013467</td>
+<td>林萃桥</td>
+<td>lin cui qiao</td>
+<td>116.373</td>
+<td>40.0219</td>
+<td>110018</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000769</td>
+<td>永泰庄</td>
+<td>yong tai zhuang</td>
+<td>116.355</td>
+<td>40.0376</td>
+<td>110018</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013468</td>
+<td>西小口</td>
+<td>xi xiao kou</td>
+<td>116.352</td>
+<td>40.0469</td>
+<td>110018</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013469</td>
+<td>育新</td>
+<td>yu xin</td>
+<td>116.347</td>
+<td>40.0603</td>
+<td>110018</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10007658</td>
+<td>霍营</td>
+<td>huo ying</td>
+<td>116.361</td>
+<td>40.0705</td>
+<td>110018|110003</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10004378</td>
+<td>回龙观东大街</td>
+<td>hui long guan dong da jie</td>
+<td>116.363</td>
+<td>40.0812</td>
+<td>110018</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000887</td>
+<td>平西府</td>
+<td>ping xi fu</td>
+<td>116.35</td>
+<td>40.0906</td>
+<td>110018</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013470</td>
+<td>育知路</td>
+<td>yu zhi lu</td>
+<td>116.327</td>
+<td>40.0878</td>
+<td>110018</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000571</td>
+<td>朱辛庄</td>
+<td>zhu xin zhuang</td>
+<td>116.314</td>
+<td>40.1043</td>
+<td>110018|110004</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td colspan="8">4号线/大兴线</td>
+</tr><tr><td>BV10003869</td>
+<td>天宫院</td>
+<td>tian gong yuan</td>
+<td>116.32</td>
+<td>39.6702</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013422</td>
+<td>生物医药基地</td>
+<td>sheng wu yi yao ji di</td>
+<td>116.322</td>
+<td>39.6866</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10010394</td>
+<td>义和庄</td>
+<td>yi he zhuang</td>
+<td>116.319</td>
+<td>39.7125</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000372</td>
+<td>黄村火车站</td>
+<td>huang cun huo che zhan</td>
+<td>116.333</td>
+<td>39.723</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10002783</td>
+<td>黄村西大街</td>
+<td>huang cun xi da jie</td>
+<td>116.333</td>
+<td>39.7318</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013275</td>
+<td>清源路</td>
+<td>qing yuan lu</td>
+<td>116.333</td>
+<td>39.7427</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013421</td>
+<td>枣园</td>
+<td>zao yuan</td>
+<td>116.332</td>
+<td>39.7535</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013420</td>
+<td>高米店南</td>
+<td>gao mi dian nan</td>
+<td>116.332</td>
+<td>39.7635</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013419</td>
+<td>高米店北</td>
+<td>gao mi dian bei</td>
+<td>116.331</td>
+<td>39.7736</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000383</td>
+<td>西红门</td>
+<td>xi hong men</td>
+<td>116.329</td>
+<td>39.7896</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013418</td>
+<td>新宫</td>
+<td>xin gong</td>
+<td>116.366</td>
+<td>39.8123</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10008170</td>
+<td>公益西桥</td>
+<td>gong yi xi qiao</td>
+<td>116.371</td>
+<td>39.837</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013417</td>
+<td>角门西</td>
+<td>jiao men xi</td>
+<td>116.371</td>
+<td>39.8459</td>
+<td>110013|110001</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10009949</td>
+<td>马家堡</td>
+<td>ma jia bao</td>
+<td>116.371</td>
+<td>39.8533</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10006454</td>
+<td>北京南站</td>
+<td>bei jing nan zhan</td>
+<td>116.379</td>
+<td>39.8652</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013416</td>
+<td>陶然亭</td>
+<td>tao ran ting</td>
+<td>116.374</td>
+<td>39.8786</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013379</td>
+<td>菜市口</td>
+<td>cai shi kou</td>
+<td>116.374</td>
+<td>39.8893</td>
+<td>110013|110021</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013415</td>
+<td>宣武门</td>
+<td>xuan wu men</td>
+<td>116.374</td>
+<td>39.8998</td>
+<td>110013|110002</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10006791</td>
+<td>西单</td>
+<td>xi dan</td>
+<td>116.376</td>
+<td>39.9072</td>
+<td>110013|110011</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10008400</td>
+<td>灵境胡同</td>
+<td>ling jing hu tong</td>
+<td>116.374</td>
+<td>39.9161</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013414</td>
+<td>西四</td>
+<td>xi si</td>
+<td>116.373</td>
+<td>39.9242</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013413</td>
+<td>平安里</td>
+<td>ping an li</td>
+<td>116.372</td>
+<td>39.9327</td>
+<td>110013|110012</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013412</td>
+<td>新街口</td>
+<td>xin jie kou</td>
+<td>116.368</td>
+<td>39.9407</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10001595</td>
+<td>西直门</td>
+<td>xi zhi men</td>
+<td>116.353</td>
+<td>39.942</td>
+<td>110013|110002|110003</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10006771</td>
+<td>动物园</td>
+<td>dong wu yuan</td>
+<td>116.339</td>
+<td>39.9383</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000252</td>
+<td>国家图书馆</td>
+<td>guo jia tu shu guan</td>
+<td>116.325</td>
+<td>39.9432</td>
+<td>110013|110008</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10000255</td>
+<td>魏公村</td>
+<td>wei gong cun</td>
+<td>116.323</td>
+<td>39.9578</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000258</td>
+<td>人民大学</td>
+<td>ren min da xue</td>
+<td>116.321</td>
+<td>39.9669</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013411</td>
+<td>海淀黄庄</td>
+<td>hai dian huang zhuang</td>
+<td>116.318</td>
+<td>39.976</td>
+<td>110013|110001</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013410</td>
+<td>中关村</td>
+<td>zhong guan cun</td>
+<td>116.316</td>
+<td>39.9839</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013409</td>
+<td>北京大学东门</td>
+<td>bei jing da xue dong men</td>
+<td>116.316</td>
+<td>39.9921</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013408</td>
+<td>圆明园</td>
+<td>yuan ming yuan</td>
+<td>116.31</td>
+<td>39.9995</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000920</td>
+<td>西苑</td>
+<td>xi yuan</td>
+<td>116.291</td>
+<td>39.9983</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013407</td>
+<td>北宫门</td>
+<td>bei gong men</td>
+<td>116.278</td>
+<td>40.0024</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013406</td>
+<td>安河桥北</td>
+<td>an he qiao bei</td>
+<td>116.27</td>
+<td>40.0119</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td colspan="8">机场专线</td>
+</tr><tr><td>BV10013428</td>
+<td>T2航站楼</td>
+<td>T2 hang zhan lou</td>
+<td>116.593</td>
+<td>40.0795</td>
+<td>110005</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10009415</td>
+<td>T3航站楼</td>
+<td>T3 hang zhan lou</td>
+<td>116.616</td>
+<td>40.0531</td>
+<td>110005</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000199</td>
+<td>三元桥</td>
+<td>san yuan qiao</td>
+<td>116.457</td>
+<td>39.9614</td>
+<td>110005|110001</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10002731</td>
+<td>东直门</td>
+<td>dong zhi men</td>
+<td>116.435</td>
+<td>39.9424</td>
+<td>110005|110002|110003</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td colspan="8">15号线</td>
+</tr><tr><td>BV10002186</td>
+<td>俸伯</td>
+<td>feng bo</td>
+<td>116.685</td>
+<td>40.1326</td>
+<td>110006</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013405</td>
+<td>顺义</td>
+<td>shun yi</td>
+<td>116.657</td>
+<td>40.13</td>
+<td>110006</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013404</td>
+<td>石门</td>
+<td>shi men</td>
+<td>116.641</td>
+<td>40.1299</td>
+<td>110006</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10002190</td>
+<td>南法信</td>
+<td>nan fa xin</td>
+<td>116.609</td>
+<td>40.1284</td>
+<td>110006</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10009387</td>
+<td>后沙峪</td>
+<td>hou sha yu</td>
+<td>116.564</td>
+<td>40.1141</td>
+<td>110006</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10002223</td>
+<td>花梨坎</td>
+<td>hua li kan</td>
+<td>116.558</td>
+<td>40.0844</td>
+<td>110006</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013403</td>
+<td>国展</td>
+<td>guo zhan</td>
+<td>116.555</td>
+<td>40.0701</td>
+<td>110006</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10002193</td>
+<td>孙河</td>
+<td>sun he</td>
+<td>116.535</td>
+<td>40.0452</td>
+<td>110006</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10011274</td>
+<td>马泉营</td>
+<td>ma quan ying</td>
+<td>116.504</td>
+<td>40.0338</td>
+<td>110006</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000963</td>
+<td>崔各庄</td>
+<td>cui ge zhuang</td>
+<td>116.493</td>
+<td>40.0223</td>
+<td>110006</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013402</td>
+<td>望京东</td>
+<td>wang jing dong</td>
+<td>116.487</td>
+<td>40.0018</td>
+<td>110006</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td>BV10013356</td>
+<td>望京</td>
+<td>wang jing</td>
+<td>116.468</td>
+<td>39.9973</td>
+<td>110006|110009</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013377</td>
+<td>望京西</td>
+<td>wang jing xi</td>
+<td>116.447</td>
+<td>39.995</td>
+<td>110006|110003</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10416640</td>
+<td>关庄</td>
+<td>guan zhuang</td>
+<td>116.428</td>
+<td>40.0016</td>
+<td>110006</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10416647</td>
+<td>安立路</td>
+<td>an li lu</td>
+<td>116.408</td>
+<td>40.0027</td>
+<td>110006</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013375</td>
+<td>奥林匹克公园</td>
+<td>ao lin pi ke gong yuan</td>
+<td>116.393</td>
+<td>40.0023</td>
+<td>110006|110018</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10416650</td>
+<td>北沙滩</td>
+<td>bei sha tan</td>
+<td>116.369</td>
+<td>40.0015</td>
+<td>110006</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10416642</td>
+<td>六道口</td>
+<td>liu dao kou</td>
+<td>116.353</td>
+<td>40.001</td>
+<td>110006</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10416646</td>
+<td>清华东路西口</td>
+<td>qing hua dong lu xi kou</td>
+<td>116.339</td>
+<td>40.0007</td>
+<td>110006</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td colspan="8">6号线</td>
+</tr><tr><td>BV10416639</td>
+<td>潞城</td>
+<td>lu cheng</td>
+<td>116.753</td>
+<td>39.9014</td>
+<td>110012</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10416641</td>
+<td>东夏园</td>
+<td>dong xia yuan</td>
+<td>116.736</td>
+<td>39.9029</td>
+<td>110012</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10416644</td>
+<td>郝家府</td>
+<td>hao jia fu</td>
+<td>116.72</td>
+<td>39.9024</td>
+<td>110012</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10416651</td>
+<td>北运河东</td>
+<td>bei yun he dong</td>
+<td>116.704</td>
+<td>39.902</td>
+<td>110012</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td>BV10416648</td>
+<td>北运河西</td>
+<td>bei yun he xi</td>
+<td>116.69</td>
+<td>39.9028</td>
+<td>110012</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10416649</td>
+<td>通运门</td>
+<td>tong yun men</td>
+<td>116.677</td>
+<td>39.91</td>
+<td>110012</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td>BV10416643</td>
+<td>通州北关</td>
+<td>tong zhou bei guan</td>
+<td>116.66</td>
+<td>39.9202</td>
+<td>110012</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10416645</td>
+<td>物资学院路</td>
+<td>wu zi xue yuan lu</td>
+<td>116.639</td>
+<td>39.9269</td>
+<td>110012</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10006882</td>
+<td>草房</td>
+<td>cao fang</td>
+<td>116.615</td>
+<td>39.9244</td>
+<td>110012</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10006429</td>
+<td>常营</td>
+<td>chang ying</td>
+<td>116.6</td>
+<td>39.9257</td>
+<td>110012</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013505</td>
+<td>黄渠</td>
+<td>huang qu</td>
+<td>116.578</td>
+<td>39.9242</td>
+<td>110012</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013506</td>
+<td>褡裢坡</td>
+<td>da lian po</td>
+<td>116.563</td>
+<td>39.924</td>
+<td>110012</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013507</td>
+<td>青年路</td>
+<td>qing nian lu</td>
+<td>116.518</td>
+<td>39.9232</td>
+<td>110012</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000481</td>
+<td>十里堡</td>
+<td>shi li bao</td>
+<td>116.502</td>
+<td>39.9231</td>
+<td>110012</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10008284</td>
+<td>金台路</td>
+<td>jin tai lu</td>
+<td>116.478</td>
+<td>39.9229</td>
+<td>110012|110009</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013489</td>
+<td>呼家楼</td>
+<td>hu jia lou</td>
+<td>116.462</td>
+<td>39.9232</td>
+<td>110012|110001</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10000548</td>
+<td>东大桥</td>
+<td>dong da qiao</td>
+<td>116.452</td>
+<td>39.9231</td>
+<td>110012</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10004298</td>
+<td>朝阳门</td>
+<td>zhao yang men</td>
+<td>116.433</td>
+<td>39.9244</td>
+<td>110012|110002</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013442</td>
+<td>东四</td>
+<td>dong si</td>
+<td>116.417</td>
+<td>39.9244</td>
+<td>110012|110016</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013392</td>
+<td>南锣鼓巷</td>
+<td>nan luo gu xiang</td>
+<td>116.403</td>
+<td>39.9331</td>
+<td>110012|110018</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013508</td>
+<td>北海北</td>
+<td>bei hai bei</td>
+<td>116.387</td>
+<td>39.9333</td>
+<td>110012</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013413</td>
+<td>平安里</td>
+<td>ping an li</td>
+<td>116.372</td>
+<td>39.9327</td>
+<td>110012|110013</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013437</td>
+<td>车公庄</td>
+<td>che gong zhuang</td>
+<td>116.355</td>
+<td>39.9324</td>
+<td>110012|110002</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10000051</td>
+<td>车公庄西</td>
+<td>che gong zhuang xi</td>
+<td>116.344</td>
+<td>39.9325</td>
+<td>110012</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000061</td>
+<td>白石桥南</td>
+<td>bai shi qiao nan</td>
+<td>116.325</td>
+<td>39.933</td>
+<td>110012|110008</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013509</td>
+<td>花园桥</td>
+<td>hua yuan qiao</td>
+<td>116.31</td>
+<td>39.9324</td>
+<td>110012</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013496</td>
+<td>慈寿寺</td>
+<td>ci shou si</td>
+<td>116.294</td>
+<td>39.933</td>
+<td>110012|110001</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10013510</td>
+<td>海淀五路居</td>
+<td>hai dian wu lu ju</td>
+<td>116.277</td>
+<td>39.9326</td>
+<td>110012</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td colspan="8">14号线中段</td>
+</tr><tr><td>BV10013363</td>
+<td>红庙</td>
+<td>hong miao</td>
+<td>116.478</td>
+<td>39.9156</td>
+<td>110025</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td>BV10013364</td>
+<td>大望路</td>
+<td>da wang lu</td>
+<td>116.478</td>
+<td>39.9083</td>
+<td>110011</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10006224</td>
+<td>九龙山</td>
+<td>jiu long shan</td>
+<td>116.478</td>
+<td>39.8932</td>
+<td>110021</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10007475</td>
+<td>平乐园</td>
+<td>ping le yuan</td>
+<td>116.477</td>
+<td>39.8844</td>
+<td>110025</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td>BV10013365</td>
+<td>松榆</td>
+<td>song yu</td>
+<td>116.477</td>
+<td>39.8757</td>
+<td>110025</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td>BV10013366</td>
+<td>南八里庄</td>
+<td>nan ba li zhuang</td>
+<td>116.47</td>
+<td>39.8679</td>
+<td>110025</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td>BV10013367</td>
+<td>十里河</td>
+<td>shi li he</td>
+<td>116.458</td>
+<td>39.8659</td>
+<td>110001</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10012561</td>
+<td>方庄</td>
+<td>fang zhuang</td>
+<td>116.433</td>
+<td>39.8658</td>
+<td>110025</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td>BV10006603</td>
+<td>蒲黄榆</td>
+<td>pu huang yu</td>
+<td>116.422</td>
+<td>39.8657</td>
+<td>110016</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10008469</td>
+<td>安乐林</td>
+<td>an le lin</td>
+<td>116.409</td>
+<td>39.8651</td>
+<td>110025</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td>BV10013368</td>
+<td>永定门外</td>
+<td>yong ding men wai</td>
+<td>116.399</td>
+<td>39.8683</td>
+<td>110025</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td>BV10013369</td>
+<td>陶然桥</td>
+<td>tao ran qiao</td>
+<td>116.388</td>
+<td>39.8713</td>
+<td>110025</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td>BV10006454</td>
+<td>北京南站</td>
+<td>bei jing nan zhan</td>
+<td>116.379</td>
+<td>39.8652</td>
+<td>110013</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10000034</td>
+<td>右安门外</td>
+<td>you an men wai</td>
+<td>116.365</td>
+<td>39.8627</td>
+<td>110025</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td>BV10013370</td>
+<td>西铁营</td>
+<td>xi tie ying</td>
+<td>116.354</td>
+<td>39.8611</td>
+<td>110025</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td>BV10013371</td>
+<td>菜户营</td>
+<td>cai hu ying</td>
+<td>116.343</td>
+<td>39.8681</td>
+<td>110025</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td>BV10013372</td>
+<td>丽泽商务区</td>
+<td>li ze shang wu qu</td>
+<td>116.336</td>
+<td>39.8681</td>
+<td>110025</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td>BV10013373</td>
+<td>东管头</td>
+<td>dong guan tou</td>
+<td>116.321</td>
+<td>39.8679</td>
+<td>110025</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td colspan="8">14号线东段</td>
+</tr><tr><td>BV10416596</td>
+<td>善各庄</td>
+<td>shan ge zhuang</td>
+<td>116.476</td>
+<td>40.0263</td>
+<td>110009</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10416588</td>
+<td>来广营</td>
+<td>lai guang ying</td>
+<td>116.467</td>
+<td>40.0206</td>
+<td>110009</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10416590</td>
+<td>东湖渠</td>
+<td>dong hu qu</td>
+<td>116.467</td>
+<td>40.0102</td>
+<td>110009</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013356</td>
+<td>望京</td>
+<td>wang jing</td>
+<td>116.468</td>
+<td>39.9973</td>
+<td>110009|110006</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10416592</td>
+<td>阜通</td>
+<td>fu tong</td>
+<td>116.47</td>
+<td>39.9927</td>
+<td>110009</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10416591</td>
+<td>望京南</td>
+<td>wang jing nan</td>
+<td>116.478</td>
+<td>39.9876</td>
+<td>110009</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10416589</td>
+<td>高家园</td>
+<td>gao jia yuan</td>
+<td>116.489</td>
+<td>39.9806</td>
+<td>110009</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td>BV10416595</td>
+<td>将台</td>
+<td>jiang tai</td>
+<td>116.49</td>
+<td>39.9713</td>
+<td>110009</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10416594</td>
+<td>东风北桥</td>
+<td>dong feng bei qiao</td>
+<td>116.487</td>
+<td>39.9576</td>
+<td>110009</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10416587</td>
+<td>枣营</td>
+<td>zao ying</td>
+<td>116.474</td>
+<td>39.9443</td>
+<td>110009</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10416593</td>
+<td>朝阳公园</td>
+<td>zhao yang gong yuan</td>
+<td>116.478</td>
+<td>39.9337</td>
+<td>110009</td>
+<td>0</td>
+<td>3</td>
+</tr><tr><td>BV10008284</td>
+<td>金台路</td>
+<td>jin tai lu</td>
+<td>116.478</td>
+<td>39.9229</td>
+<td>110009|110012</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td colspan="8">14号线西段</td>
+</tr><tr><td>BV10000215</td>
+<td>西局</td>
+<td>xi ju</td>
+<td>116.304</td>
+<td>39.8665</td>
+<td>110026|110001</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10000636</td>
+<td>七里庄</td>
+<td>qi li zhuang</td>
+<td>116.294</td>
+<td>39.8675</td>
+<td>110026|110008</td>
+<td>1</td>
+<td>1</td>
+</tr><tr><td>BV10006219</td>
+<td>大井</td>
+<td>da jing</td>
+<td>116.276</td>
+<td>39.8652</td>
+<td>110026</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013400</td>
+<td>郭庄子</td>
+<td>guo zhuang zi</td>
+<td>116.253</td>
+<td>39.8644</td>
+<td>110026</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10007072</td>
+<td>大瓦窑</td>
+<td>da wa yao</td>
+<td>116.24</td>
+<td>39.8592</td>
+<td>110026</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10013401</td>
+<td>园博园</td>
+<td>yuan bo yuan</td>
+<td>116.202</td>
+<td>39.8613</td>
+<td>110026</td>
+<td>0</td>
+<td>1</td>
+</tr><tr><td>BV10006917</td>
+<td>张郭庄</td>
+<td>zhang guo zhuang</td>
+<td>116.187</td>
+<td>39.8584</td>
+<td>110026</td>
+<td>0</td>
+<td>1</td>
+</tr></tbody></table>
